@@ -3,3 +3,6 @@
 
 # Node.js stuff
 node_modules
+
+# The site after building
+public

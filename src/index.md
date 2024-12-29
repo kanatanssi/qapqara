@@ -1,0 +1,3 @@
+# Qapqara
+
+Tiedolla & taiteella
